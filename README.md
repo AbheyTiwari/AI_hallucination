@@ -49,7 +49,6 @@ Where:
 | `hallucination_model.ipynb` | 🧠 The core analysis and modeling notebook |
 | `index.html` | 🎨 Interactive dashboard visualizing the same model |
 | `README.md` | 📘 You're here |
-| `assets/` | Optional: images or plots used in dashboard/notebook |
 
 ---
 
@@ -75,4 +74,4 @@ Where:
 ### Run with:
 
 ```bash
-jupyter notebook hallucination_model.ipynb
+jupyter notebook AI_hallucination.ipynb
